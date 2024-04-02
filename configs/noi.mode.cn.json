@@ -22,6 +22,12 @@
             "text": "Dev"
         },
         {
+            "id": "noi@community",
+            "parent": 0,
+            "dir": true,
+            "text": "Community"
+        },
+        {
             "id": "noi@email",
             "parent": 0,
             "dir": true,
